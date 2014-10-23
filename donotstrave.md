@@ -7,6 +7,8 @@
 dont-starve wiki
 http://dont-starve-game.wikia.com/wiki/Don%27t_Starve_Wiki
 
+https://dont-starve-food.googlecode.com/git/html/index.htm
+
 大分类：
 【工具】【照明】【生存】【食物】【科学】【战斗】【建造】【精炼】【魔法】【穿戴】
 【工具】
