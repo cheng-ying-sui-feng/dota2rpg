@@ -7,14 +7,6 @@
 dont-starve wiki
 http://dont-starve-game.wikia.com/wiki/Don%27t_Starve_Wiki
 
-{
-	"" :"",
-	"" :"",
-"" :"",
-
-}
-
-
 大分类：
 【工具】【照明】【生存】【食物】【科学】【战斗】【建造】【精炼】【魔法】【穿戴】
 【工具】
@@ -121,7 +113,7 @@ http://dont-starve-game.wikia.com/wiki/Don%27t_Starve_Wiki
 
 URL: http://www.3987.com/article/game/sort0500/51841_2.html
 ——正式食谱：——
-名称	配方	禁用	饥饿	生命	精神	注意事项
+名称	       配方	      禁用	      饥饿	          生命	     精神	                                     注意事项
 怪物千层面Monster Lasagna	任何情况下：怪物肉>=2或榴莲>=2	树枝	38	-20	-20	因为任何情况下，只要有两个怪物肉，就会出这个东西，所以一个食谱中绝对不要用超过一块！
 南瓜曲奇Pumpkin Cookie	南瓜X1,甜品X2	无	38	0	15	南瓜和甜品都是必须的，不能替代。
 茄子大满贯Stuffed Eggplant	茄子X1,蔬菜X1	无	38	3	5	虽然图标看上去好像塞了肉，但事实上用茄子+三萝卜也能出来。
