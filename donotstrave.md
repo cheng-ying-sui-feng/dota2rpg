@@ -3,6 +3,7 @@
 3.display food value（食物标签）；
 4.architectural geometry（建筑几何）；
 5.Manuel workshop update（正版用户必订阅，MOD手动同步）。
+Wall Gates
 
 dont-starve wiki
 http://dont-starve-game.wikia.com/wiki/Don%27t_Starve_Wiki
