@@ -6,8 +6,7 @@
 Wall Gates
 
 
-
-
+DebugSpawn("resurrectionstone")
 
 
 
