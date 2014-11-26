@@ -5,6 +5,26 @@
 5.Manuel workshop update（正版用户必订阅，MOD手动同步）。
 Wall Gates
 
+
+
+
+
+
+
+
+Display Food Values（显示食物属性）——UP上次不小心吃了块千层饼，毒死了
+BackPackPlus（可以穿护甲的同时穿背包）——UP手残党，遇到怪物只能跑
+Minimap HUD（迷你地图）——路痴一个，转两下视角我就晕了
+The fXXking Krampus（显示小偷位置）
+Map Icons（地图图标，显示BOSS，牛等）
+Always On Status（显示三围，温度、淘气值等）
+Season Clock（季节时钟）
+SignPlus（标签，给箱子，路牌，冰箱贴标签）——健忘必备，还可以学英文！！
+Wall Gates（自动门）——我的地盘我做主
+Architectural Geometry（建筑几何）——强迫症必备
+Ice Flingomatic Range Check——灭火器检查
+
+
 dont-starve wiki
 http://dont-starve-game.wikia.com/wiki/Don%27t_Starve_Wiki
 
